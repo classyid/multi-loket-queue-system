@@ -6,7 +6,7 @@
 
 Sistem manajemen antrian digital untuk **Penerimaan Siswa Baru (PSB)** yang mendukung multiple loket dengan notifikasi WhatsApp real-time. Dirancang untuk meningkatkan efisiensi dan mengurangi antrian fisik di institusi pendidikan.
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](dashboard-psb.jpeg)
 
 ## ✨ Fitur Utama
 
